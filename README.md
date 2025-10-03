@@ -9,6 +9,8 @@
    7. https://learngitbranching.js.org/
    8. https://algorithm-visualizer.org/brute-force/heapsort
    9. https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html
+   10. ERDs: https://www.youtube.com/watch?v=LowjDtiNlk4&list=PL4XIjnZ46J1nCbgRkRxTN48PpChH15ijP&index=2
+   11. Databas Keys: https://www.youtube.com/watch?v=8wUUMOKAK-c&list=PL4XIjnZ46J1nCbgRkRxTN48PpChH15ijP&index=3
 
 <!---
 Kalki-12/Kalki-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
