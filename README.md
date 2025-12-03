@@ -1,19 +1,17 @@
 - 👋 Hi, I’m Matthew
 
-[![roadmap.sh](https://roadmap.sh/card/tall/67f58065f82d4683abd7a0a5?variant=dark)](https://roadmap.sh)
-
 -  Here are some of my favorite resources that I've come across
--  1. Harvard's CS50x
-   2. Roadmap.SH
-   3. C# language map - https://github.com/milanm/csharp-cheatsheet?
+-  1. [Harvard's CS50x](https://cs50.harvard.edu/x/)
+   2. [roadmap.sh](https://roadmap.sh/roadmaps)
+   3. [C# language map](https://github.com/milanm/csharp-cheatsheet?)
    4. Microsoft's C# certification
-   5. C# fundamentals - https://youtu.be/GlGpSQsS8uc?si=a-zZyfQF8eP6hSR6
-   6. C# design Patterns - https://youtu.be/rylaiB2uH2A?si=mvzzY-Znb7hr5oLH
-   7. C# reference - https://christian-schou.com/blog/csharp-cheat-sheet/
-   8. Git tutorial - https://youtu.be/zTjRZNkhiEU?si=CFJzoJnGNxVSUv3a
-   9. Git Branching - https://learngitbranching.js.org/
-   10. ERDs: https://www.youtube.com/watch?v=LowjDtiNlk4&list=PL4XIjnZ46J1nCbgRkRxTN48PpChH15ijP&index=2
-   11. Database Keys: https://www.youtube.com/watch?v=8wUUMOKAK-c&list=PL4XIjnZ46J1nCbgRkRxTN48PpChH15ijP&index=3
+   5. [C# fundamentals](https://youtu.be/GlGpSQsS8uc?si=a-zZyfQF8eP6hSR6)
+   6. [C# design Patterns](https://youtu.be/rylaiB2uH2A?si=mvzzY-Znb7hr5oLH) 
+   7. [C# reference](https://christian-schou.com/blog/csharp-cheat-sheet/) 
+   8. [Git tutorial](https://youtu.be/zTjRZNkhiEU?si=CFJzoJnGNxVSUv3a) 
+   9. [Git Branching](https://learngitbranching.js.org/) 
+   10. [ERDs](https://www.youtube.com/watch?v=LowjDtiNlk4&list=PL4XIjnZ46J1nCbgRkRxTN48PpChH15ijP&index=2) 
+   11. [Database Keys](https://www.youtube.com/watch?v=8wUUMOKAK-c&list=PL4XIjnZ46J1nCbgRkRxTN48PpChH15ijP&index=3) 
 
 - Links
    1. https://www.w3schools.com/
