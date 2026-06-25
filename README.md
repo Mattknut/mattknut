@@ -1,28 +1,43 @@
 - 👋 Hi, I’m Matthew
+## Tools & Technologies
 
--  Here are some of my favorite resources that I've come across
--  1. [Harvard's CS50x](https://cs50.harvard.edu/x/)
-   2. [roadmap.sh](https://roadmap.sh/roadmaps)
-   3. [C# language map](https://github.com/milanm/csharp-cheatsheet?)
-   4. Microsoft's C# certification
-   5. [C# fundamentals](https://youtu.be/GlGpSQsS8uc?si=a-zZyfQF8eP6hSR6)
-   6. [C# design Patterns](https://youtu.be/rylaiB2uH2A?si=mvzzY-Znb7hr5oLH) 
-   7. [C# reference](https://christian-schou.com/blog/csharp-cheat-sheet/) 
-   8. [Git tutorial](https://youtu.be/zTjRZNkhiEU?si=CFJzoJnGNxVSUv3a) 
-   9. [Git Branching](https://learngitbranching.js.org/) 
-   10. [ERDs](https://www.youtube.com/watch?v=LowjDtiNlk4&list=PL4XIjnZ46J1nCbgRkRxTN48PpChH15ijP&index=2) 
-   11. [Database Keys](https://www.youtube.com/watch?v=8wUUMOKAK-c&list=PL4XIjnZ46J1nCbgRkRxTN48PpChH15ijP&index=3) 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET" />
+      <br>.NET
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40" alt="Visual Studio" />
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+      <br>VS Code
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" alt="Azure" />
+      <br>Azure
+  </tr>
+</table>
 
-- Links
-   1. https://www.w3schools.com/
-   2. https://quickref.me/
-   3. https://learn-anything.xyz/
-   4. https://algorithm-visualizer.org/brute-force/heapsort
-   5. https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html
 
+## Tools & Technologies
 
-
-<!---
 Kalki-12/Kalki-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
